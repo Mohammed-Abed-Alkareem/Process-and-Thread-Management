@@ -1,0 +1,3 @@
+D:/University/3rd Year/First Semester (2023-2024)/OPERATING SYSTEMS -ENCS3390-/Tasks/Task_1/TaskFiles/cmake-build-debug/CMakeFiles/TaskFiles.dir
+D:/University/3rd Year/First Semester (2023-2024)/OPERATING SYSTEMS -ENCS3390-/Tasks/Task_1/TaskFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/3rd Year/First Semester (2023-2024)/OPERATING SYSTEMS -ENCS3390-/Tasks/Task_1/TaskFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
